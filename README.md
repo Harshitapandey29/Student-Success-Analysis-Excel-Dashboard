@@ -1,9 +1,10 @@
-#🎓 Student Success Analysis Dasboard
+## 🎓 Student Success Analysis Dasboard
 An interactive Excel dashboard designed to analyze student academic performance and identify key factors influencing exam results.
 This project demonstrates data cleaning, exploratory data analysis, dashboard design, and business insight generation using Excel.
 
 --
-📌 Project Overview:
+
+## 📌 Project Overview:
 Educational institutions often need to understand why students succeed or struggle academically.
 This dashboard analyzes 10,000 student records to uncover insights into:
 
@@ -13,7 +14,8 @@ This dashboard analyzes 10,000 student records to uncover insights into:
 ✔ Key factors affecting high-performing vs at-risk students
 
 --
-🎯 Project Objectives
+
+## 🎯 Project Objectives
 The key objectives of this project were:
 
 1. Analyze student academic performance
@@ -23,18 +25,19 @@ The key objectives of this project were:
 5. Build a professional interactive Excel dashboard
 
 --
-📈 Dashboard Components
+
+## 📈 Dashboard Components
 
 The dashboard contains multiple sections to provide insights.
 
-📌 KPI Summary Cards:
+## 📌 KPI Summary Cards:
 KPI	Description-
 👥 Total Students - Total number of students analyzed
 📊 Average Exam Score - Overall academic performance
 ⚠ At Risk Students - Students with low academic performance
 ⭐ High Performers - Students with excellent performance
 
-📊 Grade Distribution:
+## 📊 Grade Distribution:
 Displays the percentage of-
 1. High performers
 2. Average students
@@ -42,18 +45,19 @@ Displays the percentage of-
 
 Chart Type: Donut Chart
 
-📊 Stress Level vs Exam Score:
+## 📊 Stress Level vs Exam Score:
 Analyzes how stress levels influence exam scores across genders.
 
 Chart Type: Clustered Column Chart
 
-📊 Engagement vs Exam Results:
+## 📊 Engagement vs Exam Results:
 Evaluates whether participation in discussions affects exam scores.
 
 Chart Type: Bar / Distribution Chart
 
 --
-🔍 Key Insights:
+
+## 🔍 Key Insights:
 
 📌 Nearly 48% of students are categorized as At Risk
 📌 Students with high stress levels tend to have lower exam scores
@@ -61,7 +65,8 @@ Chart Type: Bar / Distribution Chart
 📌 Assignment completion rate and attendance strongly influence exam results
 
 --
-🛠 Tools & Skills Used:
+
+## 🛠 Tools & Skills Used:
 
 Tools-
 Microsoft Excel
@@ -76,7 +81,8 @@ Dashboard Design
 Interactive Slicers
 
 --
-👩‍💻 Author:
+
+## 👩‍💻 Author:
 
 Harshita Pandey
 Data Analyst | Excel | SQL | Python | Power BI
