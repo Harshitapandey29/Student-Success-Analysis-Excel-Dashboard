@@ -55,6 +55,12 @@ Chart Type: Bar / Distribution Chart
 
 ----
 
+📈**Dashboard Preview:**
+
+![Watch the demo](https://github.com/user-attachments/assets/078b1b78-0a6d-4495-af3b-5f8e0d91d1f0)
+
+----
+
 🔍**Key Insights:**
 
 - Nearly 48% of students are categorized as At Risk
