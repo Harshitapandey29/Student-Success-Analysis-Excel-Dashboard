@@ -6,22 +6,21 @@ This project demonstrates data cleaning, exploratory data analysis, dashboard de
 📌**Project Overview:**
 Educational institutions often need to understand why students succeed or struggle academically.
 This dashboard analyzes 10,000 student records to uncover insights into:
-
-1. Student performance distribution
-2. Impact of stress levels on exam scores
-3. Engagement and participation influence
-4. Key factors affecting high-performing vs at-risk students
+- Student performance distribution
+- Impact of stress levels on exam scores
+- Engagement and participation influence
+- Key factors affecting high-performing vs at-risk students
 
 ----
 
 🎯**Project Objectives:**
 The key objectives of this project were:
 
-1. Analyze student academic performance
-2. Identify factors affecting exam scores
-3. Detect students at risk
-4. Provide clear insights for stakeholders
-5. Build a professional interactive Excel dashboard
+- Analyze student academic performance
+- Identify factors affecting exam scores
+- Detect students at risk
+- Provide clear insights for stakeholders
+- Build a professional interactive Excel dashboard
 
 ----
 
@@ -31,16 +30,16 @@ The dashboard contains multiple sections to provide insights.
 
 📌**KPI Summary Cards:**
 KPI	Description-
-👥 Total Students - Total number of students analyzed
-📊 Average Exam Score - Overall academic performance
-⚠ At Risk Students - Students with low academic performance
-⭐ High Performers - Students with excellent performance
+- 👥 Total Students - Total number of students analyzed
+- 📊 Average Exam Score - Overall academic performance
+- ⚠ At Risk Students - Students with low academic performance
+- ⭐ High Performers - Students with excellent performance
 
 📊**Grade Distribution:**
 Displays the percentage of-
-1. High performers
-2. Average students
-3. At-risk students
+- High performers
+- Average students
+- At-risk students
 
 Chart Type: Donut Chart
 
@@ -58,10 +57,10 @@ Chart Type: Bar / Distribution Chart
 
 🔍**Key Insights:**
 
-1. Nearly 48% of students are categorized as At Risk
-2. Students with high stress levels tend to have lower exam scores
-3. Engagement in discussions slightly improves academic performance
-4. Assignment completion rate and attendance strongly influence exam results
+- Nearly 48% of students are categorized as At Risk
+- Students with high stress levels tend to have lower exam scores
+- Engagement in discussions slightly improves academic performance
+- Assignment completion rate and attendance strongly influence exam results
 
 ----
 
@@ -71,13 +70,13 @@ Tools-
 Microsoft Excel
 
 Techniques-
-Data Cleaning
-Exploratory Data Analysis
-Pivot Tables
-Pivot Charts
-Conditional Formatting
-Dashboard Design
-Interactive Slicers
+- Data Cleaning
+- Exploratory Data Analysis
+- Pivot Tables
+- Pivot Charts
+- Conditional Formatting
+- Dashboard Design
+- Interactive Slicers
 
 ----
 
