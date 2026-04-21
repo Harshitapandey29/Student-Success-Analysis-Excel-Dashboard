@@ -57,7 +57,7 @@ Chart Type: Bar / Distribution Chart
 
 📈**Dashboard Preview:**
 
-![Watch the demo](https://github.com/user-attachments/assets/078b1b78-0a6d-4495-af3b-5f8e0d91d1f0)
+[![Watch the demo](Student_Success_Dashboard.mp4)](https://github.com/user-attachments/assets/078b1b78-0a6d-4495-af3b-5f8e0d91d1f0)
 
 ----
 
