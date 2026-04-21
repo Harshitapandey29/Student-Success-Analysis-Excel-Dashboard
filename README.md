@@ -1,4 +1,4 @@
-## 🎓 Student Success Analysis Dasboard
+## 🎓 Student Success Analysis Dashboard
 An interactive Excel dashboard designed to analyze student academic performance and identify key factors influencing exam results.
 This project demonstrates data cleaning, exploratory data analysis, dashboard design, and business insight generation using Excel.
 
